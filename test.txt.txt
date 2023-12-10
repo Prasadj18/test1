@@ -1,9 +1,9 @@
                                                        EMPLOYEE RESUME
 
                  name goes here
-                  name    : 
-                  address :
-                  email   :
+                  name    : prasad
+                  address :gurugunta
+                  email   :prasadj@gmail.com
 
                  personal details
                   dob  :
